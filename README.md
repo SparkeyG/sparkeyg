@@ -9,6 +9,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/www.linkedin.com/in/shawnccarroll/)
 
 
-[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkeyg)](https://github.com/sparkeyg/)
+[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkeyg&show_icons=true&theme=dark)](https://github.com/sparkeyg/)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sparkeyg&repo=botler)](https://github.com/sparkeyg/botler)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkeyg&layout=compact)](https://github.com/sparkeyg/botler)

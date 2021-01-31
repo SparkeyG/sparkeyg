@@ -1,7 +1,7 @@
 ![Shawn's GitHub Banner](./assets/GitHubHeader.jpeg)
 
 - 🔭 I’m currently working on botler, a discord bot to facilitate pbp roleplay.
-- 💬 Ask me about [Perl](https://img.shields.io/badge/Code-Perl-informational?logo=perl&logoColor=white&color=4AB197) ETL tools
+- 💬 Ask me about ![Perl](https://img.shields.io/badge/Code-Perl-informational?logo=perl&logoColor=white&color=4AB197) ETL tools
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned to program by reading code listing in the back of byte magazines and typing them into my Commodore 64
 

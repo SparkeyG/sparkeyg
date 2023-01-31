@@ -11,6 +11,6 @@
 
 [![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkeyg&show_icons=true&theme=dark)](https://github.com/sparkeyg/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sparkeyg&repo=botler)](https://github.com/sparkeyg/botler)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkeyg&layout=compact)](https://github.com/sparkeyg/botler)
